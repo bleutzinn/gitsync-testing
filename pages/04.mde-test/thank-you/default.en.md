@@ -1,5 +1,0 @@
----
-title: 'Thank You'
----
-
-Thanks for submitting.
