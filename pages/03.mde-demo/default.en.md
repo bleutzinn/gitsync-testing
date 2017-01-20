@@ -6,7 +6,7 @@ editable:
 
 ## SimpleMDE demo !!!
 
-This is **markdown**. You can edit me with SimpleMDE.>
+This is **markdown**. You can edit me with SimpleMDE.
 
 **Automatic syncing to GitHub using the Git Sync Plugin works !!!** Hmm, now testing via config variableWhy would I need to fire a sync event when syncing is already taken care of when content is changed ? Aha, just changing files doesn't trigger the sync. Also hacking the plugin to process commands in the background doesn't work.
 
