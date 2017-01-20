@@ -2,11 +2,12 @@
 title: Home
 shortcode-core:
     active: false
+shortcode-core.merged: null
 ---
 
 # Editable plugin demo
 
-The Editable plugin allows writers or authors to edit content without accessing the website administration back end. All edits can be done right on the page in the front end. [comment]: # (just a comment)
+The **Editable plugin** allows writers or authors to edit content without accessing the website administration back end. All edits can be done right on the page in the front end. [comment]: # (just a comment)
 
 Out of the box, Editable supports two editors ContentTools and Froala. Both support "in context" editing, that is content can be edited right on the page. Which editor is used can be configured in the plugin configuration.
 
