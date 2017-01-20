@@ -8,7 +8,7 @@ editable:
 
 This is **markdown**. You can edit me with SimpleMDE.
 
-**Automatic syncing to GitHub using the Git Sync Plugin works !!!** Hmm, now testing via config variable. Done.
+**Automatic syncing to GitHub using the Git Sync Plugin works !!!** Hmm, now testing via config variable. Why would I need to fire a sync event when syncing is already taken care of when content is changed ?
 
 Please **do not** edit this page with ContentTools as it will remove all this content and replace it with whatever you enter. And it will save your content in HTML. That's not bad as long as you remain editing with ContentTools.
 
