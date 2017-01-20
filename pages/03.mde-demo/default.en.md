@@ -6,7 +6,9 @@ editable:
 
 ## SimpleMDE demo !!!
 
-This is **markdown**. You can edit me with SimpleMDE. This is a sync test. 
+This is **markdown**. You can edit me with SimpleMDE.
+
+**Automatic syncing to GitHub using the Git Sync Plugin works !!!**
 
 Please **do not** edit this page with ContentTools as it will remove all this content and replace it with whatever you enter. And it will save your content in HTML. That's not bad as long as you remain editing with ContentTools.
 
