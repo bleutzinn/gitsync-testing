@@ -7,7 +7,7 @@ editable:
 
 ## Demo MD-1 !!!
 
-This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate. BRRRRR
+This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate. no
 
 ***Color Picker*:**
 ![colorpicker](http://www.w3schools.com/images/colorpicker.gif)
