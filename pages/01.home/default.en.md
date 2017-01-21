@@ -9,7 +9,7 @@ shortcode-core.merged: null
 
 The **Editable plugin** allows writers or authors to edit content without accessing the website administration back end. All edits can be done right on the page in the front end. [comment]: # (just a comment)
 
-Does a new line gets picked up?
+Does a new line gets picked up? nope
 
 This should save immediately. It does. And these changes should appear on GitHub as well. They do, I noticed on GitHub where I typed this sentence.
 
