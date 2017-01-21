@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1 !!! back to localhost?
+## Demo MD-1 !!! back to localhost? Patience my dear
 
 This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate. +++
 
