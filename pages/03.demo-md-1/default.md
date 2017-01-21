@@ -7,7 +7,7 @@ editable:
 
 ## Demo **MD-1**
 
-This is a demo of the "<i>editable_self</i>" mode. Hahaah
+This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background?
 
 ![the image alt" src="" /&gt; ](image.jpg)
 
