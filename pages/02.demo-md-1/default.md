@@ -5,9 +5,11 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+## Demo **MD-1**
 
-This is a demo of the "<i>editable_self</i>" mode.
+This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :(
+
+![the image alt" src="" /&gt; ](image.jpg)
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
