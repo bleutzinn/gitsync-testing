@@ -5,7 +5,7 @@ shortcode-core:
 shortcode-core.merged: null
 ---
 
-# Editable plugin demo
+## Editable plugin demo !!
 
 The **Editable plugin** allows writers or authors to edit content without accessing the website administration back end. All edits can be done right on the page in the front end. [comment]: # (just a comment)
 
