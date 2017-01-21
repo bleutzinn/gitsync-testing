@@ -5,9 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo md-1 "Pushy, yet unobtrusive"
-
-Testing background pushing to remote repo. bla BLA
+## Demo MD-1
 
 This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate. BRRRRR
 
