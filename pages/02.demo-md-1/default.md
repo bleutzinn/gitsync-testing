@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+## Demo uu-1
 
 This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate.
 
