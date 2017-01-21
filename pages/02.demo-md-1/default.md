@@ -7,7 +7,7 @@ editable:
 
 ## Demo md-1 "Pushy, yet unobtrusive"
 
-Testing background pushing to remote repo. bla bla
+Testing background pushing to remote repo. bla BLA
 
 This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate.
 
