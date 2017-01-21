@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo md-1 "Pushy"
+## Demo md-1 "Pushy, yet unobtrusive"
 
 This is a demo of the "<i>editable_self</i>" mode. Hahaah OMG this got synced in the background? Uh, no :( Now? And....? Ay, yes. Immediate.
 
