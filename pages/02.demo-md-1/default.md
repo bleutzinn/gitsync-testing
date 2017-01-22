@@ -13,4 +13,3 @@ After logging in (use 'john' and 'Demo0123') you can start editing this page by 
 
 Change text, save by clicking the Save button and reload the page.
 
-aha nohup. O gosh!
