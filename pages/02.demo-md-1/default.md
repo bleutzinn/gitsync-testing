@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1 &gt;!&lt;   :)
+## Demo MD-1 ~~~
 
 This is a demo of the "<i>editable_self</i>" mode. GitSync is done in the background so saving feels snappy again. Yahoo !
 
