@@ -41,14 +41,6 @@ form:
                 tag3: 'Tag 3'
                 tag4: 'Tag 4'
         -
-            name: g-recaptcha-response
-            label: Captcha
-            type: captcha
-            recaptcha_site_key: 6LeyugsUAAAAAM4IQVeDbpTssYOTfARPlXiWJLUw
-            recaptcha_not_validated: 'Captcha not valid!'
-            validate:
-                required: true
-        -
             name: images
             type: file
             multiple: false
