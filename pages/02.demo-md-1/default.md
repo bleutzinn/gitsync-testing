@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+## Demo MD-1 Awesome
 
 This is a demo of the "<i>editable_self</i>" mode.
 
