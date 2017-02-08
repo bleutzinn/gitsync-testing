@@ -12,3 +12,5 @@ After logging in (use 'john' and 'Demo0123') you can start editing this page by 
 &gt; To be safe, the original demo content is reset every 10 minutes.
 
 Have fun !
+
+[Hangar Crossfit](http://hangarcrossfit.ca)
