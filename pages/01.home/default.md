@@ -10,7 +10,7 @@ This is a demo of the [Editable plugin](https://github.com/bleutzinn/grav-plugin
 | t1| t2 | Column 3 |
 | -------- | -------- | -------- |
 | 111     | Te2222xt     | Text     |
-
+* * 
 
 **After logging in** (use 'john' and 'Demo0123') you can start editing this page by clicking on the **Edit me** button at the right.
 
