@@ -1,6 +1,9 @@
 ---
 title: SlideTest
 template: remark
+process:
+    markdown: false
+    twig: false
 ---
 
 class: center, middle
