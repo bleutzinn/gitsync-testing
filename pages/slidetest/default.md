@@ -1,5 +1,6 @@
 ---
 title: SlideTest
+template: remark
 ---
 
 class: center, middle
