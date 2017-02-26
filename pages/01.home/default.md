@@ -2,7 +2,9 @@
 title: Home
 ---
 
-## E![](http://4.bp.blogspot.com/-3xWfm_7aSSo/UkKZmM7F7TI/AAAAAAAAZUM/4dA88bQJ5B8/s1600/liverpool-1080.jpg)ditable plugin with SimpleMDE Markdown Editor
+## Editable plugin with SimpleMDE Markdown Editor
+
+
 
 This is a demo of the [Editable plugin](https://github.com/bleutzinn/grav-plugin-editable/blob/master/README.md) for [Grav](http://github.com/getgrav/grav) when used with [SimpleMDE](https://simplemde.com/) as the editor.
 
