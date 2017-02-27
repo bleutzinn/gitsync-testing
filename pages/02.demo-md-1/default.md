@@ -5,14 +5,7 @@ editable:
     editable_self: true
 ---
 
-www.idg.se
 
-www.idg.se
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 ## Demo MD-1
 
