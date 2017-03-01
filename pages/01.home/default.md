@@ -12,7 +12,3 @@ The first thing to do is to **log in** (use '**<font face="Courier New">john</fo
 &gt; To be safe, the original demo content is reset every 10 minutes.
 
 Have fun !
-yopyop
-
-
-yop
