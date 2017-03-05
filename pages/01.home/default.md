@@ -4,7 +4,7 @@ title: Home
 
 
 
-| Animal 1 | Column 2 | Column 3 |
+| Animal 1 | Column 2 | Column 3 |  this is text
 | -------- | -------- | -------- |
 | Cat     | Text     | Text     |
 
