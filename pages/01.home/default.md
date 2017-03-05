@@ -4,9 +4,9 @@ title: Home
 
 
 
-	| Animal 1 | Column 2 | Column 3 |
+| Animal 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-	| Cat     | Text     | Text     |
+| Cat     | Text     | Text     |
 
 ## Editable plugin with SimpleMDE Markdown Editor
 
