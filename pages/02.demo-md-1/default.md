@@ -6,6 +6,13 @@ editable:
 ---
 
 ## Demo MD-1
+&gt; ![](http://)[![](
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+http://)](http://)&gt; ![](http://)[](http://)&gt; ![](http://)[](http://)&gt; ![](http://)[](http://)
 
 This is a demo of the "<i>editable_self</i>" mode.
 
