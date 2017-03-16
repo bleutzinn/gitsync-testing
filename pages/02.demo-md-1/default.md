@@ -5,15 +5,9 @@ editable:
     editable_self: true
 ---
 
-# Demo MD-1
+## Demo MD-1
 
 This is a demo of the "<i>editable_self</i>" mode.
-![](http://)
-
-|\#id | Name | links |
-| -------- | -------- | -------- |
-| 1     | Truc     | [edit](http://)     |
-| 2     | Machin     | [edit](http://)     |
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
