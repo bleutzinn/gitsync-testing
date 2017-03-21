@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1 (if this is #1, where is #2?)
+## Demo MD-1
 
 This is a demo of the "<i>editable_self</i>" mode.
 
