@@ -4,7 +4,7 @@ title: Home
 
 ## Editable plugin with SimpleMDE Markdown Editor
 
-This is a demo of the [Editable plugin](https://github.com/bleutzinn/grav-plugin-editable/blob/master/README.md) for [Grav](http://github.com/getgrav/grav) when used with [SimpleMDE](https://simplemde.com/) as the editor.
+This is a demonstration of the [Editable plugin](https://github.com/bleutzinn/grav-plugin-editable/blob/master/README.md) for [Grav](http://github.com/getgrav/grav) when used with [SimpleMDE](https://simplemde.com/) as the editor.
 
 The first thing to do is to **log in** (use '**<font face="Courier New">john</font>**' and '**<font face="Courier New">Demo0123</font>**'). Once logged in you can play around on the two demo pages.
 
