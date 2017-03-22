@@ -12,7 +12,7 @@ The first thing to do is to **log in** (use '**<font face="Courier New">john</fo
 
 
 | hola1 | hola 2 | Column 3 |
-| | -------- | -------- |
+| -------- | -------- | -------- |
 | ieeee     | añañas     | Tasafda |
 
 
