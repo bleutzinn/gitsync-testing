@@ -7,6 +7,11 @@ editable:
 
 ## Demo MD-1
 
+### header 3 ###
+
+*****
+horizontal rule ^^^
+
 This is a demo of the "<i>editable_self</i>" mode.
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
