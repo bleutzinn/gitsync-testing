@@ -12,18 +12,3 @@ The first thing to do is to **log in** (use '**<font face="Courier New">john</fo
 &gt; To be safe, the original demo content is reset every 10 minutes.
 
 Have fun !
-
-
-
-| Team | Primary Color | City |
-| -------- | -------- | -------- |
-| Cardinals | Red | St. Louis |
-| Cubs | Blue | Chicago |
-| Orioles | Orange | Baltimore |
-| Salukis | Maroon | Carbondale, IL |
-| Redbirds | Red | Normal, IL |
-| Shockers | Yellow / Black | Wichita, KS |
-| Blues | Blue | St. Louis |
-| Blackhawks | Black | Chicago |
-
-
