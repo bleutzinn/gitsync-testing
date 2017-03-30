@@ -2,7 +2,10 @@
 title: Home
 ---
 
-## Editable plugin with SimpleMDE Markdown Editor
+## Editable plugin with SimpleMDE Markdown Editor ewfefef
+
+fewfewfef
+wfweewffewf
 
 This is a demo of the [Editable plugin](https://github.com/bleutzinn/grav-plugin-editable/blob/master/README.md) for [Grav](http://github.com/getgrav/grav) when used with [SimpleMDE](https://simplemde.com/) as the editor.
 
