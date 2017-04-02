@@ -16,6 +16,6 @@ Have fun !
 
 ### Download
 
-This site is available as a single [download](https://wardenier.eu/demo-downloads/grav-20170402122018.zip) (8.4 Mb zip file).
+This site is available as a single [download](https://wardenier.eu/demo-downloads/grav-20170402205534.zip) (8.4 Mb zip file).
 This file is a Grav Backup file created from the Admin panel on April 2, 2017 using Grav v1.2.0 and Admin v1.3.1.
 
