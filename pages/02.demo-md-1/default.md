@@ -7,7 +7,9 @@ editable:
 
 ## Demo MD-1
 
-This is a demo of the "<i>editable_self</i>" mode.
+This is a demo of the "editable_self" mode.
+
+&gt; This is a test of blockquoting.
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
