@@ -5,17 +5,15 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+# Demo MD-1
 
-This is a demo of the "editable_self" mode.
-
-&gt; This is a test of blockquoting.
-
-
+This is a demo of the "editable_self" mode.![](http://)
 
 | Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Test     | Text     | Three     |
+| -| - | - |
+| Text     | Text     | Text     |
+
+
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
