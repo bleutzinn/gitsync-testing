@@ -5,9 +5,6 @@ editable:
     editable_self: true
 ---
 
-# Test2
-yes this is a test.
-
 ## Demo MD-1
 
 This is a demo of the "editable_self" mode.
