@@ -5,19 +5,10 @@ editable:
     editable_self: true
 ---
 
-&gt; ## Demo![
-&gt; 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+# Test2
+yes this is a test.
 
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-]( ![](http:http://)//)MD-1
+## Demo MD-1
 
 This is a demo of the "editable_self" mode.
 
