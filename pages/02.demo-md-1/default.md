@@ -5,9 +5,21 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+&gt; ## Demo![
+&gt; 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
-This is a demo of the "editable_self" mode. Testing
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+]( ![](http:http://)//)MD-1
+
+This is a demo of the "editable_self" mode.
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
