@@ -9,8 +9,7 @@ editable:
 
 This is a demo of the "editab' mode.
 
-* #### After** logging** in (use 'john' and 'Demo0123') you can start editing thisy clicking on the <b>Edit me !</b> button at the right.
-
+*After** logging** in (use 'john' and 'Demo0123') you can start editing thisy clicking on the <b>Edit me !</b> button at the right.
 * sd
 * sdf
 * sfd
