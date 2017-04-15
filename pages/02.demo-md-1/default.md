@@ -10,7 +10,7 @@ editable:
 This is a demo of the "editable_self" mode.
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the **Edit me** button at the right.
-
+![](nice-teen-asshole-and-shaved-pussy-6169.jpg)
 Change text, save by clicking the Save button and reload the page.
 
 So I suppose cache is active / enabled?
