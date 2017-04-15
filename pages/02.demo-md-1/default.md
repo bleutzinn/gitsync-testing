@@ -7,7 +7,16 @@ editable:
 
 ## Demo MD-1
 
-This is a demo of the "editable_self" mode.
+This is a demo of the "editable_self" mode.  
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
