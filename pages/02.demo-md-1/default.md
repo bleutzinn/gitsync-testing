@@ -15,4 +15,4 @@ Change text, save by clicking the Save button and reload the page.
 
 So I suppose cache is active / enabled?
 
-Also test editing of non root pages like [Demo Child One](Demo Child One).
+Also test editing of non root pages like [Demo Child One](demo-md-1/demo-child-one).
