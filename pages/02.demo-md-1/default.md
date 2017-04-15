@@ -14,3 +14,5 @@ After logging in (use 'john' and 'Demo0123') you can start editing this page by 
 Change text, save by clicking the Save button and reload the page.
 
 So I suppose cache is active / enabled?
+
+Also test with editing non root pages like [Demo Child One](demo-child-one).
