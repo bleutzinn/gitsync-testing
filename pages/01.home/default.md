@@ -1,5 +1,7 @@
 ---
 title: Home
+editable:
+    editable_self: true
 ---
 
 ## Editable plugin with SimpleMDE Markdown Editor

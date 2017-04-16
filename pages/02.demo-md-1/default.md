@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+## Demo MD-1 !
 
 This is a demo of the highly improved Editable w/SimpleMDE Plugin in "editable_self" mode.
 
