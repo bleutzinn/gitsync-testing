@@ -5,9 +5,9 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1 !!!
+## Demo MD-1 !
 
-This is a demo of the "editable_self" mode.
+This is a demo of the highly improved Editable w/SimpleMDE Plugin in "editable_self" mode.
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the **Edit** button at the right.
 
