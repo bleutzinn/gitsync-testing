@@ -7,13 +7,6 @@ editable:
 
 ## Demo MD-1
 
-![](
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-http://)
 
 This is a demo of the "editable_self" mode.
 
