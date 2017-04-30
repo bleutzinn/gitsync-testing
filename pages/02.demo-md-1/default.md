@@ -6,7 +6,13 @@ editable:
 ---
 
 ## Demo MD-1
-#### This is a demo of the "editable_self" mode.
+
+This is a demo of the "editable_self" mode.
+
+**hello**
+``Hello``
+__Hello__
+*Hello*
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
