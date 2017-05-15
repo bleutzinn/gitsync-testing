@@ -9,6 +9,14 @@ editable:
 
 This is a demo of the "editable_self" mode.
 
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Test Cell 1    | Test Cell 2     | Test Cell 3     |
+
+
+
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
 Change text, save by clicking the Save button and reload the page.
