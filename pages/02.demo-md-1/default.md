@@ -6,9 +6,9 @@ editable:
 ---
 
 ## Demo MD-1
-&gt; 
-&gt; This is a demo of the "editable_self" mode.****
 
-**After logging in **(use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
+&gt; This is a demo of the "editable_self" mode.
 
-Change text, save by clicking the Save button and reload the page.
+**After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.**
+
+1. ### Change text, save by clicking the Save button and reload the page.
