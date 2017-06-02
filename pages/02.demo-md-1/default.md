@@ -13,10 +13,7 @@ After logging in (use 'john' and 'Demo0123') you can start editing this page by 
 &gt; zxczc  
 * &gt; 
 
-
-
-
-[http/cityof.com](http://)
+[cityof.com](http://)
 Change text, save by clicking th![](http://)e Save button and reload the page.
 
 ##### **yehoo**
