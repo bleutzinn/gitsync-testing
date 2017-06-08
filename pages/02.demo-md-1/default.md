@@ -5,12 +5,6 @@ editable:
     editable_self: true
 ---
 
-&gt; Test
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 ## Demo MD-1
 
 This is a demo of the "editable_self" mode.
