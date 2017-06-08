@@ -5,16 +5,9 @@ editable:
     editable_self: true
 ---
 
-## Demo MD-1
+## Demo MD-1 Yeeeeees
 
-### This is a demo of the "editable_self" mode.
-
-
-| test | test2 | test3 |
-| -------- | -------- | -------- |
-| Text1     | Text2     | Text 3    |
-
-
+This is a demo of the "editable_self" mode.
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
