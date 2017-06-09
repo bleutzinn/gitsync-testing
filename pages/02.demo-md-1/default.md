@@ -15,6 +15,6 @@ Change text, save by clicking the Save button and reload the page.
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Text     | Text     | [Text](http://www.harlandakammarkor.se)    |
 
 
