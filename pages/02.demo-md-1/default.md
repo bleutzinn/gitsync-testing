@@ -9,7 +9,7 @@ editable:
 
 This is a demo of the "editable_self" mode.
 
-This is [boom](http://)!
+This is [boom](http://www.google.com)!
 
 After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
 
