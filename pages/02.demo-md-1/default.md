@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-Hwow
+**Hwow**
 
 This is a demo of the "editable_self" mode.
 
