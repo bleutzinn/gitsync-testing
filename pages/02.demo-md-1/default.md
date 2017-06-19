@@ -5,7 +5,7 @@ editable:
     editable_self: true
 ---
 
-**Bananna**
+## Demo MD-2
 
 This is a demo of the "editable_self" mode.
 
