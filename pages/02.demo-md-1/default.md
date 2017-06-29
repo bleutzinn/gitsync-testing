@@ -7,7 +7,7 @@ editable:
 
 ## Demo MD-1
 
-Manipulative Eltern machen ihren Kindern das Leben zur Hölle. Meistens fallen ihre manipulativen Machenschaften noch nicht einmal direkt auf. Hinter ihren harmlosen Aussagen verstecken sich oft ganz andere Botschaften.
+**Manipulative** Eltern machen ihren Kindern das Leben zur Hölle. Meistens fallen ihre manipulativen Machenschaften noch nicht einmal direkt auf. Hinter ihren harmlosen Aussagen verstecken sich oft ganz andere Botschaften.
 
 Wenn Sie spüren, dass Sie sich im Beisein Ihrer Eltern schlecht fühlen, sich Vorwürfe machen oder ständig beschuldigt werden, dann sollten Sie wachsam sein. Familienfeste werden zu Horrorveranstaltungen, Abwertung ist an der Tagesordnung, Habgier und Geiz prägen die Beziehung. Genau auf solche Punkte geht die Autorin ein, damit Sie wissen, Sie bilden es sich nicht ein, sondern es ist tatsächlich so. Wegweisend sind auf jeden Fall die 30 Merkmale auf Grunde derer man eine manipulative Persönlichkeit erkennt.
 
