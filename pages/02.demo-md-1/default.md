@@ -8,7 +8,13 @@ editable:
 ## Demo MD-1
 
 This is a demo of the "editable_self" mode.
+1. ![]([](http://)
 
-After **logging in** (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
-Change *text, save by clicking* the Save button and reload the page.
+http://)
+After logging in (use 'john' and 'Demo0123') you can start editing this page by clicking on the <b>Edit me !</b> button at the right.
+
+Change text, save by clicking the Save button and reload the page.
